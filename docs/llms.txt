@@ -1,10 +1,10 @@
 # disCOrD-ZapREt
 
-Сборка disCOrD-ZapREt заточена под Discord: connecting, голосовой чат, демонстрация экрана. VPN не нужен, IP не меняется, скорость канала остаётся вашей.
+Новая версия с улучшенной поддержкой Discord. Надежнее, стабильнее, быстрее
 
 Сборка disCOrD-ZapREt заточена под Discord: connecting, голосовой чат, демонстрация экрана. VPN не нужен, IP не меняется, скорость канала остаётся вашей. обход блокировки Discord, Discord не подключается, Discord connecting исправить, голосовой чат Discord не работает. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/ThunderCore66/disCOrD-ZapREt/releases/latest
-Код: https://github.com/ThunderCore66/disCOrD-ZapREt
+Релиз: https://github.com/thundercore66/disCOrD-ZapREt/releases/latest
+Код: https://github.com/thundercore66/disCOrD-ZapREt
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/ThunderCore66/disCOrD-ZapREt
+Страница: https://github.com/thundercore66/disCOrD-ZapREt
